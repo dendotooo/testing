@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "random": "./random.js",
+    "std/": "https://deno.land/std@0.210.0/"
+  }
+}
